@@ -4,15 +4,15 @@ My capstone will be an e-commerce website, in which users can login, view produc
 
 
 # MVP
-user can login
-used can add item to cart
-user can checkout
-user can navigate around website
-Database set up with tables for users, cart, products
+* user can login
+* used can add item to cart
+* user can checkout
+* user can navigate around website
+* Database set up with tables for users, cart, products
 
 
 # Pages
-Home page
-cart page
-product page
-login page
+* Home page
+* cart page
+* product page
+* login page
